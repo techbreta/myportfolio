@@ -17,6 +17,8 @@ const App = () => {
     });
   }, []);
 
+  
+
   return (
     <div className="overflow-x-hidden">
       <Navbar />
